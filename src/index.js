@@ -1,1 +1,2 @@
-console.log('webpack test');
+import 'bootstrap';
+import $ from 'jquery';
